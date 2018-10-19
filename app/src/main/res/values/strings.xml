@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Zad_2_ToDoList</string>
+    <string name="deleteTask">Delete Task</string>
+    <string name="addTask">Add Task</string>
 </resources>
